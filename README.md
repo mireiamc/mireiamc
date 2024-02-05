@@ -29,7 +29,7 @@ I am a very curious person and I like to learn about anything. The world of deve
 ![slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
 
 ### 🌱 Currently learning:
-I'm currently studying new courses about AWS (EC2, BBDD, S3 y AWS CLI, AWS Lambda) and Typescript mainly. In addition, I'm studying React and relational database courses to expand my knowledge.
+I'm currently studying new courses about AWS (EC2, DDBB, S3 y AWS CLI, AWS Lambda) and Typescript mainly. In addition, I'm studying React and relational database courses to expand my knowledge.
 
 ### 💪🏻 Working on:
 - I'm working for CodeWave. We are developing a web application where you can manage medical data about women's health.
