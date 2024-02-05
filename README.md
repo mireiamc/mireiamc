@@ -16,7 +16,6 @@ I am a very curious person and I like to learn about anything. The world of deve
 
 ![html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![csss3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![scss](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
 ![react](https://img.shields.io/badge/-React.js-23A9F2?style=flat-square&logo=React&logoColor=white)
 ![node](https://img.shields.io/badge/-Node.js-%2390c53f?style=flat-square&logo=Node.js&logoColor=white)
