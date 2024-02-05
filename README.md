@@ -32,7 +32,7 @@ I am a very curious person and I like to learn about anything. The world of deve
 I'm currently studying new courses about AWS (EC2, DDBB, S3 y AWS CLI, AWS Lambda) and Typescript mainly. In addition, I'm studying React and relational database courses to expand my knowledge.
 
 ### 💪🏻 Working on:
-- I'm working for CodeWave. We are developing a web application where you can manage medical data about women's health.
+- I'm working for CodeWave organization. We are developing a web application where you can manage medical data about women's health.
 - I'm creating my personal portfolio where you'll could find all my personal projects.
 - Practicing all my new knowledge constantly with practical exercises.
 
