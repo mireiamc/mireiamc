@@ -23,6 +23,7 @@ I am a very curious person and I like to learn about anything. The world of deve
 ![mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
 ![mongDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
 ![postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
+![swagger](https://img.shields.io/badge/Swagger-green?style=flat-square&logo=Swagger&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![gulp](https://img.shields.io/badge/-Gulp-%23CF4647?style=flat-square&logo=gulp&logoColor=white)
 ![github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)
