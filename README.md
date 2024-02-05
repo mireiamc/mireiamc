@@ -1,3 +1,5 @@
+![header](/mireiashort.gif)
+
 ## 🤓 A little bit of me:
 Hi there, welcome to my little space on GitHub 🚀!  
 I'm Mireia and I've recently started in the world of web development.  
